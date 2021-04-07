@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="Temp">溫度轉換</string>
+    <string name="input">輸入華氏溫度</string>
+    <string name="output">輸出攝氏溫度</string>
+    <string name="go">Go</string>
+    <string name="todo">TODO</string>
+</resources>
